@@ -1,0 +1,2 @@
+1|31|top|( custom/power ) ( clock ) ( memory custom/gpuinfo custom/keybindhint ) ( pulseaudio )|( hyprland/workspaces )|( network custom/updates custom/cliphist ) ( tray )
+0|32|bottom|( memory custom/cpuinfo custom/gpuinfo ) ( idle_inhibitor clock ) ( wlr/taskbar )|( hyprland/workspaces )|( backlight network pulseaudio pulseaudio#microphone custom/updates custom/keybindhint ) ( tray battery ) ( custom/wallchange custom/theme custom/wbar custom/cliphist custom/power )
